@@ -3,7 +3,7 @@ import os
 
 input_dir = "."
 output_dir = "."
-new_size = (512, 512)  # новое разрешение (ширина, высота)
+new_size = (512, 512)  
 
 os.makedirs(output_dir, exist_ok=True)
 
